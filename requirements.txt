@@ -1,0 +1,17 @@
+Authomatic==0.1.0.post1
+facebook-sdk==0.4.0
+Flask==0.10.1
+Flask-PyMongo==0.3.1
+ipdb==0.8.1
+ipython==3.2.1
+itsdangerous==0.24
+Jinja2==2.8
+MarkupSafe==0.23
+oauthlib==1.0.1
+pymongo==2.8.1
+requests==2.7.0
+requests-oauthlib==0.5.0
+six==1.9.0
+tweepy==3.3.0
+webapp2==2.5.2
+Werkzeug==0.10.4
